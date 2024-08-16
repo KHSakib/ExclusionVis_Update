@@ -5,6 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import plotly.express as px
 
+
 st.set_page_config(layout='wide')
 st.title("ExclusionVis: A Visual Interactive System for Exclusion Analysis in the Life Insurance Using Machine Learning Techniques")
 
